@@ -20,28 +20,20 @@ from haruka.modules.helper_funcs.misc import paginate_modules
 from haruka.modules.translations.strings import tld, tld_help 
 from haruka.modules.connection import connected
 
-PM_START = """Hello {}, my name is {}!
+PM_START = """Hello {gaes}, my name is {jamalkntl}!
 
 sᴀʏᴀ ᴀᴅᴀʟᴀʜ ʙᴏᴛ ʏᴀɴɢ ᴅɪʙᴜᴀᴛ ᴋʜᴜsᴜs ᴜɴᴛᴜᴋ ᴍᴇɴᴊᴀɢᴀ ᴅᴀɴ ᴍᴇʀᴀᴍᴀɪᴋᴀɴ ɢʀᴜᴘ ᴄʜᴀᴛ sɪᴀ. 
-ᴛᴀᴍʙᴀʜᴋᴀɴ sᴀʏᴀ ᴋᴇ ɢʀᴜᴘ ᴍᴜ ᴅᴀɴ ᴀᴛᴜʀ sᴀʏᴀ sᴇʙᴀɢᴀɪ ᴀᴅᴍɪɴ [ᴇᴅɪᴛ -> ᴀᴅᴍɪɴs -> ᴛᴀᴍʙᴀʜᴋᴀɴ ᴀᴅᴍɪɴ) ᴅᴀɴ ʙɪᴀʀᴋᴀɴ sᴀʏᴀ ᴍᴇɴɢɢᴜɴᴄᴀɴɢ ɢʀᴜᴘᴍᴜ!
+ᴛᴀᴍʙᴀʜᴋᴀɴ sᴀʏᴀ ᴋᴇ ɢʀᴜᴘ ᴍᴜ ᴅᴀɴ ᴀᴛᴜʀ sᴀʏᴀ sᴇʙᴀɢᴀɪ ᴀᴅᴍɪɴ ᴇᴅɪᴛ -> ᴀᴅᴍɪɴs -> ᴛᴀᴍʙᴀʜᴋᴀɴ ᴀᴅᴍɪɴ) ᴅᴀɴ ʙɪᴀʀᴋᴀɴ sᴀʏᴀ ᴍᴇɴɢɢᴜɴᴄᴀɴɢ ɢʀᴜᴘᴍᴜ!
 sᴀʏᴀ ʜᴀɴʏᴀ ʙᴏᴛ, ᴛᴀᴘɪ ᴋᴀʟᴏ ᴍᴀᴜ ʙᴇʀᴋᴀᴡᴀɴ sᴀʙɪ sɪ ᴡᴋᴡᴋ
-⚅**ᴍᴀɴᴀɢᴇᴅ ᴡɪᴛʜ ɴɢᴀɴᴛᴜᴋ ʙʏ :** [ʲᵃᵐᵃˡᵏⁿᵗˡ](https://t.me/@jamalkntll)
+
+⚅**ᴍᴀɴᴀɢᴇᴅ ᴡɪᴛʜ ɴɢᴀɴᴛᴜᴋ ʙʏ :** [ʲᵃᵐᵃˡᵏⁿᵗˡ](t.me/jamalkntll)
+
+Kalau mau aktifin anti spam sung ae pencet : 
+/antispam on
+
+Klik /help ae buat liat liat fiturnya bahahaa.
 
 
-Activate Anti-spam protection in your BM by this command : 
-/antispam on 
-
-Made from the source code of [Aditya 🇮🇳](t.me/xditya)
-
-Special thanks to [this person](t.me/denver02) for helping me.
-
-Deploy a bot like me [now](www.github.com/xditya/GroupManager)
-
-Watch [video tutorial](https://www.youtube.com/watch?v=gXXFpTAk6Vo&feature=youtu.be) on deploying me.
-
-Click /help or Help button below to find out more about how to use me to my full potential.
-
- Add me to a group by clicking [here](http://t.me/tg_GroupManagerBot?startgroup=true).
 """
 
 
