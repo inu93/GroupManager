@@ -20,7 +20,7 @@ from haruka.modules.helper_funcs.misc import paginate_modules
 from haruka.modules.translations.strings import tld, tld_help 
 from haruka.modules.connection import connected
 
-PM_START = """Hello {gaes}, my name is {jamalkntl}!
+PM_START = """Hello {}, my name is {}!
 
 sᴀʏᴀ ᴀᴅᴀʟᴀʜ ʙᴏᴛ ʏᴀɴɢ ᴅɪʙᴜᴀᴛ ᴋʜᴜsᴜs ᴜɴᴛᴜᴋ ᴍᴇɴᴊᴀɢᴀ ᴅᴀɴ ᴍᴇʀᴀᴍᴀɪᴋᴀɴ ɢʀᴜᴘ ᴄʜᴀᴛ sɪᴀ. 
 ᴛᴀᴍʙᴀʜᴋᴀɴ sᴀʏᴀ ᴋᴇ ɢʀᴜᴘ ᴍᴜ ᴅᴀɴ ᴀᴛᴜʀ sᴀʏᴀ sᴇʙᴀɢᴀɪ ᴀᴅᴍɪɴ ᴇᴅɪᴛ -> ᴀᴅᴍɪɴs -> ᴛᴀᴍʙᴀʜᴋᴀɴ ᴀᴅᴍɪɴ) ᴅᴀɴ ʙɪᴀʀᴋᴀɴ sᴀʏᴀ ᴍᴇɴɢɢᴜɴᴄᴀɴɢ ɢʀᴜᴘᴍᴜ!
