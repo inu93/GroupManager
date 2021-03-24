@@ -22,9 +22,11 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
 
-You know how hard it is sometimes to manage group so here is the solution for you
+sᴀʏᴀ ᴀᴅᴀʟᴀʜ ʙᴏᴛ ʏᴀɴɢ ᴅɪʙᴜᴀᴛ ᴋʜᴜsᴜs ᴜɴᴛᴜᴋ ᴍᴇɴᴊᴀɢᴀ ᴅᴀɴ ᴍᴇʀᴀᴍᴀɪᴋᴀɴ ɢʀᴜᴘ ᴄʜᴀᴛ sɪᴀ. 
+ᴛᴀᴍʙᴀʜᴋᴀɴ sᴀʏᴀ ᴋᴇ ɢʀᴜᴘ ᴍᴜ ᴅᴀɴ ᴀᴛᴜʀ sᴀʏᴀ sᴇʙᴀɢᴀɪ ᴀᴅᴍɪɴ [ᴇᴅɪᴛ -> ᴀᴅᴍɪɴs -> ᴛᴀᴍʙᴀʜᴋᴀɴ ᴀᴅᴍɪɴ) ᴅᴀɴ ʙɪᴀʀᴋᴀɴ sᴀʏᴀ ᴍᴇɴɢɢᴜɴᴄᴀɴɢ ɢʀᴜᴘᴍᴜ!
+sᴀʏᴀ ʜᴀɴʏᴀ ʙᴏᴛ, ᴛᴀᴘɪ ᴋᴀʟᴏ ᴍᴀᴜ ʙᴇʀᴋᴀᴡᴀɴ sᴀʙɪ sɪ ᴡᴋᴡᴋ
+⚅**ᴍᴀɴᴀɢᴇᴅ ᴡɪᴛʜ ɴɢᴀɴᴛᴜᴋ ʙʏ :** [ʲᵃᵐᵃˡᵏⁿᵗˡ](https://t.me/@jamalkntll)
 
-I'm group manager bot and Anti-spam for RR Players🃏
 
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
