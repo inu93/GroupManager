@@ -22,11 +22,11 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
 
-sᴀʏᴀ ᴀᴅᴀʟᴀʜ ʙᴏᴛ ʏᴀɴɢ ᴅɪʙᴜᴀᴛ ᴋʜᴜsᴜs ᴜɴᴛᴜᴋ ᴍᴇɴᴊᴀɢᴀ ᴅᴀɴ ᴍᴇʀᴀᴍᴀɪᴋᴀɴ ɢʀᴜᴘ ᴄʜᴀᴛ sɪᴀ. 
+sᴀʏᴀ ᴀᴅᴀʟᴀʜ ʙᴏᴛ ʏᴀɴɢ ᴅɪʙᴜᴀᴛ ᴋʜᴜsᴜs ᴜɴᴛᴜᴋ ᴍᴇɴᴊᴀɢᴀ ᴅᴀɴ ᴍᴇʀᴀᴍᴀɪᴋᴀɴ ɢʀᴜᴘ ᴄʜᴀᴛ. 
 ᴛᴀᴍʙᴀʜᴋᴀɴ sᴀʏᴀ ᴋᴇ ɢʀᴜᴘ ᴍᴜ ᴅᴀɴ ᴀᴛᴜʀ sᴀʏᴀ sᴇʙᴀɢᴀɪ ᴀᴅᴍɪɴ ᴇᴅɪᴛ -> ᴀᴅᴍɪɴs -> ᴛᴀᴍʙᴀʜᴋᴀɴ ᴀᴅᴍɪɴ) ᴅᴀɴ ʙɪᴀʀᴋᴀɴ sᴀʏᴀ ᴍᴇɴɢɢᴜɴᴄᴀɴɢ ɢʀᴜᴘᴍᴜ!
 sᴀʏᴀ ʜᴀɴʏᴀ ʙᴏᴛ, ᴛᴀᴘɪ ᴋᴀʟᴏ ᴍᴀᴜ ʙᴇʀᴋᴀᴡᴀɴ sᴀʙɪ sɪ ᴡᴋᴡᴋ
 
-⚅**ᴍᴀɴᴀɢᴇᴅ ᴡɪᴛʜ ɴɢᴀɴᴛᴜᴋ ʙʏ :** [ʲᵃᵐᵃˡᵏⁿᵗˡ](t.me/jamalkntll)
+⚅**ᴍᴀɴᴀɢᴇ ʙʏ :** [ebnu ganteng](t.me/ebnudoang)
 
 Kalau mau aktifin anti spam sung ae pencet : 
 /antispam on
